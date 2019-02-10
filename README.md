@@ -1,2 +1,2 @@
-# main
-main folder
+# Sample Portfolio
+Ed Skillion's Sample Portfolio
